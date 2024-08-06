@@ -1,0 +1,38 @@
+
+body {
+    text-align: center;
+    margin-top: 250px;
+    border: #000;
+    background-color: rgb(250, 251, 167);
+    
+  }
+  
+  .otp-container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: rgb(241, 7, 7);
+  }
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-style: italic;
+  }
+  
+  button {
+    background-color: #32d6bd;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+  }
+  
+  button:hover {
+    background-color: #2b3947;
+  }
+  
